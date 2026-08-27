@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Awesome Open IELTS">
+  <rect width="1280" height="320" fill="#1c1917"/>
+  <rect x="0" y="0" width="8" height="320" fill="#0D7377"/>
+  <text x="72" y="118" fill="#f5f0e8" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Awesome Open IELTS</text>
+  <text x="72" y="168" fill="#d6d3d1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">Official · Public · Open source</text>
+  <text x="72" y="206" fill="#0D7377" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20">官方 · 公开 · 开源 · 不收录盗版剑桥真题</text>
+  <text x="72" y="262" fill="#a8a29e" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">British Council · IDP · Cambridge · 公开学术词表 · 合法练习</text>
+</svg>

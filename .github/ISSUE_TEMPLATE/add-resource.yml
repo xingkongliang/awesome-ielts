@@ -1,0 +1,59 @@
+name: 添加资源 / Add a resource
+description: 提交一条官方、公开或开源的雅思资源。盗版剑桥真题会被直接关闭。
+title: "[Add] "
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        只收 **官方 / 公开可访问 / 开源** 资源。
+        剑桥真题 PDF、预测题库盗链、未授权扫描件 **不要提**。
+  - type: input
+    id: name
+    attributes:
+      label: 名称 / Name
+      placeholder: Academic Phrasebank
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类 / Category
+      options:
+        - Official
+        - Listening
+        - Reading
+        - Writing
+        - Speaking
+        - Vocabulary
+        - Grammar
+        - Video / Podcast
+        - Tools / Open source
+        - China mainland
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么该收 / Why it belongs
+      description: 谁做的、是否免费、和已有条目比多了什么。
+      placeholder: 曼彻斯特大学公开的学术写作句型库，Task 2 直接能用。
+    validations:
+      required: true
+  - type: checkboxes
+    id: legal
+    attributes:
+      label: 合法性
+      options:
+        - label: 这不是盗版剑桥真题、未授权扫描件或泄露试卷。 / This is not a pirated Cambridge book or leaked paper.
+          required: true
+        - label: 我已核对链接可以公开访问。 / The URL is publicly reachable.
+          required: true
