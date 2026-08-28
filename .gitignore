@@ -2,3 +2,8 @@
 *.log
 .idea/
 .vscode/
+
+# Agent instructions stay on disk for local tools; do not publish.
+AGENTS.md
+CLAUDE.md
+
