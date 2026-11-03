@@ -168,6 +168,8 @@ IELTS 由 [British Council](https://takeielts.britishcouncil.org)、[IDP IELTS](
 - [IELTS Simon](https://ielts-simon.com) — 前考官风格的短范文，结构清楚。
 - [IELTS Advantage](https://www.ieltsadvantage.com/) — 写作策略。
 
+- [WriteClimb GT 书信指南](https://writeclimb.com/blog/ielts-general-writing-task-1-letter) — 免费，无需注册：正式、半正式和非正式书信各一篇原创示例，附对应练习题；不是考官评分范文。另有需注册、部分付费的 AI 写作分析器。
+
 **需要人（或模型）打回的练习**
 
 听读可以自己对答案。写作不行。

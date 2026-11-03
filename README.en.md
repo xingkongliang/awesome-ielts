@@ -67,6 +67,8 @@ Overall band = average of four skills, rounded to the nearest half band (`.25` u
 
 **Writing:** descriptors + examiner-commented samples · [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk) · [Purdue OWL](https://owl.purdue.edu) · [Write & Improve](https://writeandimprove.com) · [IELTS Liz Writing](https://ieltsliz.com/ielts-writing-task-2/) · [IELTS Simon](https://ielts-simon.com) · [IELTS Advantage](https://www.ieltsadvantage.com/) · [EasyIELTS writing practice](https://easyielts.cn/writing-practice?utm_source=github&utm_medium=awesome_list&utm_campaign=open_ielts_2026_08) (Chinese UI, four-criteria scoring)
 
+- [WriteClimb General Training letter guide](https://writeclimb.com/blog/ielts-general-writing-task-1-letter) — Free, no registration: three original formal, semi-formal and informal letter examples with matching practice prompts; not examiner-scored. The separate AI analyser requires an account and is partly paid.
+
 **Speaking:** descriptors · official sample videos · [Speak & Improve](https://speakandimprove.com) · [IELTS Liz Speaking](https://ieltsliz.com/ielts-speaking-free-lessons-essential-tips/) · [YouGlish](https://youglish.com) · [EasyIELTS speaking](https://easyielts.cn/speaking-practice?utm_source=github&utm_medium=awesome_list&utm_campaign=open_ielts_2026_08) (AI interviewer, four-criteria feedback)
 
 Seasonal “topic pools” circulating on social media are **not** published by IELTS. Useful as prompts; memorised answers get penalised.
