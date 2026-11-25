@@ -78,6 +78,7 @@ Seasonal “topic pools” circulating on social media are **not** published by 
 - [Academic Spoken Word List](https://www.eapfoundation.com/vocab/academic/aswl/) · [OSF data](https://osf.io/gwk45)
 - [Oxford 3000 / 5000](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
 - [machine_readable_wordlists](https://github.com/lpmi-13/machine_readable_wordlists)
+- [Yasilove (雅思爱我)](https://yasilove.me/) — Free IELTS 5,999-word vocabulary site (Chinese UI) with UK/US phonetics, example sentences, spaced repetition and quizzes.
 
 Dictionaries: [Cambridge](https://dictionary.cambridge.org) · [Oxford Learner's](https://www.oxfordlearnersdictionaries.com) · [Forvo](https://forvo.com) · [SKELL](https://skell.sketchengine.eu)
 
