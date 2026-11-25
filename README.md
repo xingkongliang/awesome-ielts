@@ -206,6 +206,7 @@ IELTS 由 [British Council](https://takeielts.britishcouncil.org)、[IDP IELTS](
 - [Academic Spoken Word List](https://www.eapfoundation.com/vocab/academic/aswl/) — 讲座 / 研讨会口语词表（[OSF 数据](https://osf.io/gwk45)）。对听力和口语比 AWL 更贴。
 - [Word lists overview (EAP Foundation)](https://www.eapfoundation.com/vocab/wordlists/overview/) — 各词表对比。
 - [Oxford 3000 / 5000](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000) — 牛津核心词，带 CEFR。
+- [雅思爱我](https://yasilove.me/) — 免费雅思 5999 词 + 四六级词书，英美音标、例句、间隔复习与测验，无需安装。
 - [machine_readable_wordlists](https://github.com/lpmi-13/machine_readable_wordlists) — AWL / NGSL / NAWL 等的 YAML/JSON。
 - [LanguageTool](https://languagetool.org) — 开源语法检查（[源码](https://github.com/languagetool-org/languagetool)），写作自查比盲信模板有用。
 - [LearnEnglish · Grammar](https://learnenglish.britishcouncil.org/grammar)
