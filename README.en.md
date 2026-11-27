@@ -98,6 +98,7 @@ Only original tools and openly licensed lists — not repos that host Cambridge 
 - [LanguageTool](https://github.com/languagetool-org/languagetool)
 - [Whisper](https://github.com/openai/whisper) — transcribe your own speaking recordings
 - [Anki](https://apps.ankiweb.net)
+- [OpenExam Hub](https://github.com/JadissEL/openexam-hub) — MIT-licensed study planner (https://openexamhub.org) that turns official IELTS and other public exam materials into a day-by-day plan. Free; a free account is required to generate a plan.
 
 ## Mainland China booking
 
