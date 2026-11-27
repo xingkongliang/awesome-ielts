@@ -263,6 +263,7 @@ IELTS 由 [British Council](https://takeielts.britishcouncil.org)、[IDP IELTS](
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) — 开源语法检查。
 - [openai/whisper](https://github.com/openai/whisper) — 把你的口语录音转写，对着 band descriptors 自己找停顿和语法。
 - [Anki](https://apps.ankiweb.net) — 间隔重复。牌组请用 AWL / NGSL 等开放词表，不要导入盗版书。
+- [OpenExam Hub](https://github.com/JadissEL/openexam-hub) — 免费、MIT 开源的学习规划站点（https://openexamhub.org），把官方雅思等公开材料排成每日计划，并带一个只在浏览器运行的 CLB/NCLC 换算器。生成计划需免费注册。
 
 **应用**
 
